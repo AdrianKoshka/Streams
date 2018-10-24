@@ -36,6 +36,8 @@ Different livestreams of music I listen to
   - WBFO: BCC World Service
   - Classical 94.5 WNED: Classical WNED All-Night
   - JazzWorks: JazzWorks
+- [radio.azpm.org](https://radio.azpm.org/kuaz.help/)
+  - Links directly to a page where `.m3u`s are available
 
 
 ## [License](LICENSE) ![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
