@@ -11,7 +11,7 @@ Different livestreams of music I listen to
   - News and Music: Classical Music Overnight
   - News and Talk: BBC World Service
   - All Classical: All Classical
-- [waer.org](https://waer.org)
+- [waer.org](http://waer.org)
   - WAER: Overnight Jazz
   - WAER HD2: Cool Jazz Countdown (404's, not included)
   - WAER HD3: AAA/Rock Music
