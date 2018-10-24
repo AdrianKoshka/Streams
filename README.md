@@ -12,6 +12,7 @@ Different livestreams of music I listen to
   - News and Music: Classical Music Overnight
   - News and Talk: BBC World Service
   - All Classical: All Classical
+  - [wshu.org Icecast2 Server](https://wshu-iad.streamguys1.com/)
 - [waer.org](http://waer.org)
   - WAER: Overnight Jazz
   - WAER HD2: Cool Jazz Countdown (404's, not included)
