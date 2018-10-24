@@ -11,10 +11,10 @@ Different livestreams of music I listen to
   - News and Music: Classical Music Overnight
   - News and Talk: BBC World Service
   - All Classical: All Classical
-- [waer.org](https://wear.org)
-  - WEAR: Overnight Jazz
-  - WEAR HD2: Cool Jazz Countdown ($04's, not included)
-  - WEAR HD3: AAA/Rock Music
+- [waer.org](https://waer.org)
+  - WAER: Overnight Jazz
+  - WAER HD2: Cool Jazz Countdown ($04's, not included)
+  - WAER HD3: AAA/Rock Music
 - [news.wbfo.org](http://news.wbfo.org)
   - WBFO: BCC World Service
   - Classical 94.5 WNED: Classical WNED All-Night
