@@ -2,11 +2,12 @@
 
 Different livestreams of music I listen to
 
-# Sites/Stations
+## Sites/Stations
 
 - [wskg.org](https://wskg.org)
   - Listen Live - WSKG: NPR News and Classical music
   - Listen Live - WSQX: Breaking news, with some weekend jazz
+  - [wskg.org Icecast2 Server](http://peace.str3am.com:7070/)
 - [wshu.org](http://wshu.org)
   - News and Music: Classical Music Overnight
   - News and Talk: BBC World Service
@@ -19,6 +20,7 @@ Different livestreams of music I listen to
   - WBFO: BCC World Service
   - Classical 94.5 WNED: Classical WNED All-Night
   - JazzWorks: JazzWorks
+
 
 ## [License](LICENSE) ![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
 
