@@ -7,12 +7,10 @@ Different livestreams of music I listen to
 - [wskg.org](https://wskg.org)
   - Listen Live - WSKG: NPR News and Classical music
   - Listen Live - WSQX: Breaking news, with some weekend jazz
-  - [wskg.org Icecast2 Server](http://peace.str3am.com:7070/)
 - [wshu.org](http://wshu.org)
   - News and Music: Classical Music Overnight
   - News and Talk: BBC World Service
   - All Classical: All Classical
-  - [wshu.org Icecast2 Server](https://wshu-iad.streamguys1.com/)
 - [waer.org](http://waer.org)
   - WAER: Overnight Jazz
   - WAER HD2: Cool Jazz Countdown (404's, not included)
@@ -23,8 +21,12 @@ Different livestreams of music I listen to
   - JazzWorks: JazzWorks
 - [radio.azpm.org](https://radio.azpm.org/kuaz.help/)
   - Links directly to a page where `.m3u`s are available
-  - [AZPM Icecast2 Server](http://streaming.azpm.org/)
 
+### Icecast2 Servers
+
+- [wskg.org Icecast2 Server](http://peace.str3am.com:7070/)
+- [wshu.org Icecast2 Server](https://wshu-iad.streamguys1.com/)
+- [AZPM Icecast2 Server](http://streaming.azpm.org/)
 
 ## [License](LICENSE) ![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
 
