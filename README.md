@@ -24,9 +24,9 @@ Different livestreams of music I listen to
 
 ### Icecast2 Servers
 
-- [wskg.org Icecast2 Server](http://peace.str3am.com:7070/)
-- [wshu.org Icecast2 Server](https://wshu-iad.streamguys1.com/)
-- [AZPM Icecast2 Server](http://streaming.azpm.org/)
+- [WSKG](http://peace.str3am.com:7070/)
+- [WSHU](https://wshu-iad.streamguys1.com/)
+- [AZPM](http://streaming.azpm.org/)
 
 ## [License](LICENSE) ![CC0](http://i.creativecommons.org/p/mark/1.0/88x31.png)
 
