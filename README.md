@@ -13,7 +13,7 @@ Different livestreams of music I listen to
   - All Classical: All Classical
 - [waer.org](http://waer.org)
   - WAER: Overnight Jazz
-  - WAER HD2: Cool Jazz Countdown (404's, not included)
+  - WAER HD2: Cool Jazz Countdown
   - WAER HD3: AAA/Rock Music
 - [news.wbfo.org](http://news.wbfo.org)
   - WBFO: BCC World Service
